@@ -1,2 +1,2 @@
 # scripts
-everyday scripts used in linux administration
+everyday scripts used in linux administration - and not only

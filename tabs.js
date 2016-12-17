@@ -1,6 +1,8 @@
 /*
  save tabs is a java script for Acrobat Reader
  on Linux put it usually in ~/.adobe/Acrobat/9.0/JavaScripts
+ on Windows and Adobe DC -> C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
+ and in Acrobat Menu (Edit>Preferences>Javascript) ENABLE "Enable menu items JavaScript execution privileges"
 */
 var delim= '|';
 var parentMenu="View";

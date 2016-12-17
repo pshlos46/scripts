@@ -3,6 +3,7 @@
  on Linux put it usually in ~/.adobe/Acrobat/9.0/JavaScripts
  on Windows and Adobe DC -> C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Javascripts
  and in Acrobat Menu (Edit>Preferences>Javascript) ENABLE "Enable menu items JavaScript execution privileges"
+ see http://stackoverflow.com/questions/12689154/adobe-acrobat-reader-tabs-saving-and-autoloading for more info. NOT my script
 */
 var delim= '|';
 var parentMenu="View";

@@ -23,6 +23,10 @@ scripts to export Heroku Dataclips through http since there is not an API or som
 
 ZenDMD script (Zenoss monitoring) to get device id's and classes under a specific collector
 
+#### `google-sheets-scripts.gs`
+
+Some helper scripts for Google Sheets
+
 #### `NetSuite` 
 
 Implementations regarding Oracle's Cloud ERP NetSuite and Integrating with other systems DB's, suitescripts, Restlets, that kind of stuff
